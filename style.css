@@ -372,3 +372,8 @@ figcaption {
         transform: translateY(0);
     }
 }  
+
+.img-size {
+    width: 500px;
+    padding: 1em;
+}
